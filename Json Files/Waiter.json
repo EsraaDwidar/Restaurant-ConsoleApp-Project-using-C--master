@@ -1,0 +1,56 @@
+[
+  {
+    "Salary": 0.0,
+    "Id": 1,
+    "Name": "ahmed",
+    "Phone": "0121123",
+    "Address": "sidi beshr",
+    "Email": "ahmed@gmail.com",
+    "Password": "123456"
+  },
+  {
+    "Salary": 0.0,
+    "Id": 2,
+    "Name": "ali",
+    "Phone": "1312",
+    "Address": "asdds",
+    "Email": "ali@gmail.com",
+    "Password": "123"
+  },
+  {
+    "Salary": 0.0,
+    "Id": 3,
+    "Name": "Safwat",
+    "Phone": "0110351045",
+    "Address": "sidi beshr",
+    "Email": "Safwat@gmail.com",
+    "Password": "123"
+  },
+  {
+    "Salary": 0.0,
+    "Id": 4,
+    "Name": "Ahmed",
+    "Phone": "01212312332",
+    "Address": "Alex",
+    "Email": "AhmedSafwat12@gmail.com",
+    "Password": "123"
+  },
+  {
+    "Salary": 0.0,
+    "Id": 5,
+    "Name": "1",
+    "Phone": "1111111",
+    "Address": "44444444",
+    "Email": "1",
+    "Password": "111111111111"
+  },
+  {
+    "Salary": 0.0,
+    "Id": 6,
+    "Name": "9999",
+    "Phone": "999999999",
+    "Address": "9999999999999",
+    "Email": "999999999",
+    "Password": "999999"
+  }
+]
